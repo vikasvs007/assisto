@@ -86,44 +86,20 @@ class PolicyQAAssistant:
     def find_relevant_section(self, question: str) -> str:
         """
         Find the most relevant section of the policy for the question.
-        Uses simple keyword matching for demonstration purposes.
+        For better accuracy, we send the full policy to Gemini.
         
         Args:
             question: User's question
             
         Returns:
-            Relevant section of the policy or full policy if no specific match
+            Full policy text for comprehensive context
         """
         if not self.policy_text:
             return ""
         
-        # Simple keyword extraction (lowercase for matching)
-        question_lower = question.lower()
-        
-        # Split policy into sections
-        sections = self.policy_text.split("=" * 80)
-        
-        # Keywords to section mapping
-        keywords_map = {
-            'coverage': ['coverage', 'covered', 'cover', 'protection', 'protect'],
-            'exclusion': ['exclusion', 'excluded', 'not covered', 'exception'],
-            'claim': ['claim', 'file', 'report', 'settlement'],
-            'deductible': ['deductible', 'pay', 'cost', 'expense'],
-            'cancel': ['cancel', 'termination', 'end policy'],
-            'negligence': ['negligence', 'negligent', 'careless'],
-            'premium': ['premium', 'payment', 'cost', 'price'],
-        }
-        
-        # Find matching section
-        for section in sections:
-            section_lower = section.lower()
-            for category, keywords in keywords_map.items():
-                if any(keyword in question_lower for keyword in keywords):
-                    if category in section_lower or any(kw in section_lower for kw in keywords):
-                        return section.strip()
-        
-        # If no specific section found, return full policy (truncated for context)
-        return self.policy_text[:3000] + "\n\n[Policy continues...]"
+        # Send full policy for best accuracy
+        # Gemini can handle the full context and find relevant parts
+        return self.policy_text
     
     def ask_question(self, question: str) -> str:
         """
