@@ -67,7 +67,7 @@ graph TD
     C -->|No| D[Error: Load Policy First]
     C -->|Yes| E[Find Relevant Section]
     E --> F{API Key Available?}
-    F -->|Yes| G[OpenAI LLM]
+    F -->|Yes| G[Gemini LLM]
     F -->|No| H[Mock Response Generator]
     G --> I[Format Response]
     H --> I
