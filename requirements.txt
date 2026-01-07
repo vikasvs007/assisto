@@ -1,0 +1,10 @@
+# Policy Document Q&A Assistant - Dependencies
+
+# Core dependency for LLM integration (optional)
+google-generativeai>=0.3.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Note: The application works in mock mode without the Gemini library
+# Install with: pip install -r requirements.txt
