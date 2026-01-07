@@ -363,11 +363,19 @@ def main():
             if not question:
                 continue
             
-            print("\n💡 Answer:")
-            print("-" * 70)
+            print("\n" + "=" * 70)
+            print("💡 ANSWER")
+            print("=" * 70)
+            print()
             answer = assistant.ask_question(question)
-            print(answer)
-            print("-" * 70)
+            
+            # Format the answer with better spacing
+            lines = answer.split('\n')
+            for line in lines:
+                print(line)
+            
+            print()
+            print("=" * 70)
             
         except KeyboardInterrupt:
             print("\n\nSession ended by user.")

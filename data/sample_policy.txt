@@ -1,144 +1,187 @@
-COMPREHENSIVE INSURANCE POLICY DOCUMENT
+🩺 COMPREHENSIVE HEALTH INSURANCE POLICY DOCUMENT
 
-Policy Number: INS-2026-00123
-Effective Date: January 1, 2026
-Policy Holder: Sample Customer
-
-================================================================================
-SECTION 1: COVERAGE DETAILS
-================================================================================
-
-This insurance policy provides coverage for damages to the insured property 
-subject to the terms, conditions, and exclusions outlined in this document.
-
-1.1 Covered Perils
-The insurer agrees to cover damages resulting from:
-- Fire and smoke damage
-- Water damage from burst pipes or plumbing failures
-- Theft and burglary
-- Natural disasters (storms, hail, lightning)
-- Accidental damage to the property
-
-1.2 Coverage Limits
-- Maximum coverage amount: $500,000
-- Personal property coverage: Up to $100,000
-- Additional living expenses: Up to $20,000 if property becomes uninhabitable
+Policy Number: HLT-2026-04567
+Effective Date: March 1, 2026
+Policy Holder: Demo Policy Holder
 
 ================================================================================
-SECTION 2: EXCLUSIONS
-================================================================================
 
-2.1 Intentional Acts
-The insurer shall not be liable for damages caused by intentional acts or 
-deliberate destruction of property by the policy holder or any authorized user.
-
-2.2 Negligence
-Damages resulting from negligence, carelessness, or failure to maintain the 
-property in reasonable condition are not covered. This includes but is not 
-limited to:
-- Failure to repair known defects
-- Improper maintenance of electrical or plumbing systems
-- Leaving property unsecured or vulnerable to theft
-
-2.3 Wear and Tear
-Normal wear and tear, gradual deterioration, or aging of the property is not 
-covered under this policy.
-
-2.4 Excluded Events
-The following events are specifically excluded:
-- War, terrorism, or civil unrest
-- Nuclear incidents or radiation
-- Flood damage (requires separate flood insurance)
-- Earthquake damage (requires separate earthquake insurance)
-- Damage from pests or insects
+SECTION 1: POLICY OVERVIEW
 
 ================================================================================
-SECTION 3: DEDUCTIBLES
-================================================================================
 
-3.1 Standard Deductible
-A deductible of $1,000 applies to all claims. This means the policy holder is 
-responsible for the first $1,000 of any covered loss.
-
-3.2 Special Deductibles
-- Hurricane or windstorm damage: 5% of the insured value
-- Theft claims: $500 deductible
+This health insurance policy provides financial coverage for medical expenses incurred due to illness, injury, or hospitalization, subject to the terms, conditions, exclusions, and limits described in this document.
 
 ================================================================================
-SECTION 4: CLAIMS PROCESS
-================================================================================
 
-4.1 Reporting a Claim
-Claims must be reported within 48 hours of discovering the damage or loss. 
-To file a claim:
-1. Contact our claims department at 1-800-CLAIMS-1
-2. Provide your policy number and details of the incident
-3. Document the damage with photographs if possible
-4. Preserve damaged items for inspection
-
-4.2 Claim Investigation
-The insurer reserves the right to investigate all claims and may require:
-- Police reports (for theft or vandalism)
-- Repair estimates from licensed contractors
-- Proof of ownership for damaged items
-- Inspection of the damaged property
-
-4.3 Claim Settlement
-Once approved, claims will be settled within 30 days. The insurer may choose to:
-- Pay for repairs or replacement
-- Provide cash settlement equal to the actual cash value
-- Replace damaged items with similar quality items
+SECTION 2: COVERED MEDICAL EXPENSES
 
 ================================================================================
-SECTION 5: POLICY TERMS AND CONDITIONS
-================================================================================
 
-5.1 Premium Payments
-Premiums are due on the first day of each month. Failure to pay premiums within 
-the 30-day grace period will result in policy cancellation.
+2.1 Hospitalization Coverage
 
-5.2 Policy Cancellation
-The policy holder may cancel this policy at any time with 30 days written notice.
-The insurer may cancel this policy for:
-- Non-payment of premiums
-- Fraud or misrepresentation
-- Substantial increase in risk
+The insurer will cover expenses related to inpatient hospitalization, including:
 
-5.3 Policy Renewal
-This policy automatically renews annually unless either party provides written 
-notice of non-renewal at least 60 days before the renewal date.
+Room rent and boarding charges
 
-5.4 Changes to the Policy
-Any changes to this policy must be made in writing and signed by both parties. 
-Verbal agreements or modifications are not valid.
+Doctor and surgeon fees
 
-================================================================================
-SECTION 6: DEFINITIONS
-================================================================================
+Nursing expenses
 
-6.1 Actual Cash Value
-The replacement cost of property minus depreciation based on age and condition.
+Operation theatre charges
 
-6.2 Insured Property
-The property located at the address specified in the policy declarations, 
-including the building and personal property contained within.
+Medicines and medical consumables
 
-6.3 Reasonable Care
-The level of care that a prudent person would exercise to protect their property 
-from damage or loss.
+2.2 Pre- and Post-Hospitalization
 
-================================================================================
-SECTION 7: CONTACT INFORMATION
-================================================================================
+Pre-hospitalization expenses: Up to 30 days before admission
 
-For questions about your policy:
-- Customer Service: 1-800-SERVICE-1
-- Claims Department: 1-800-CLAIMS-1
-- Email: support@insurancecompany.com
-- Website: www.insurancecompany.com
+Post-hospitalization expenses: Up to 60 days after discharge
 
-Business Hours: Monday - Friday, 8:00 AM - 6:00 PM EST
+2.3 Day Care Procedures
+
+Medical procedures that do not require 24-hour hospitalization are covered, including:
+
+Cataract surgery
+
+Dialysis
+
+Chemotherapy
+
+Radiotherapy
+
+2.4 Ambulance Charges
+
+Emergency ambulance expenses are covered up to $1,000 per hospitalization.
 
 ================================================================================
-END OF POLICY DOCUMENT
+
+SECTION 3: SUM INSURED AND LIMITS
+
+================================================================================
+
+Total sum insured per policy year: $200,000
+
+ICU charges: Covered up to 2% of sum insured per day
+
+Room rent limit: Single private room
+
+================================================================================
+
+SECTION 4: EXCLUSIONS
+
+================================================================================
+
+4.1 Pre-Existing Diseases
+
+Any illness or condition that existed prior to policy inception is not covered for the first 24 months.
+
+4.2 Waiting Period
+
+General waiting period: 30 days from policy start date
+
+Specific diseases (hernia, gallstones, joint replacement): 12 months
+
+4.3 Non-Covered Treatments
+
+The policy does not cover:
+
+Cosmetic or aesthetic procedures
+
+Dental treatments unless due to accident
+
+Experimental or unproven treatments
+
+Infertility or assisted reproduction procedures
+
+4.4 Self-Inflicted Injuries
+
+Expenses arising from intentional self-harm or substance abuse are excluded.
+
+================================================================================
+
+SECTION 5: CO-PAYMENT AND DEDUCTIBLES
+
+================================================================================
+
+Standard deductible: $500 per claim
+
+Co-payment: 10% of claim amount for insured persons above 60 years
+
+================================================================================
+
+SECTION 6: CLAIMS PROCESS
+
+================================================================================
+
+6.1 Cashless Claims
+
+Available at network hospitals
+
+Pre-authorization required before admission
+
+6.2 Reimbursement Claims
+
+To file a reimbursement claim:
+
+Submit claim form within 15 days of discharge
+
+Provide original bills, discharge summary, and prescriptions
+
+Claims will be settled within 21 working days
+
+================================================================================
+
+SECTION 7: POLICY TERMS AND RENEWAL
+
+================================================================================
+
+7.1 Policy Renewal
+
+Renewable annually on timely payment of premium
+
+Lifetime renewability available
+
+7.2 Policy Cancellation
+
+Policyholder may cancel with 15 days’ written notice
+
+Insurer may cancel due to fraud or misrepresentation
+
+7.3 Portability
+
+Policyholder may transfer this policy to another insurer as per regulatory guidelines.
+
+================================================================================
+
+SECTION 8: DEFINITIONS
+
+================================================================================
+
+Hospital: A registered medical institution with inpatient facilities
+
+Pre-existing Disease: Any condition diagnosed before policy start date
+
+Co-payment: Percentage of claim amount paid by the insured
+
+================================================================================
+
+SECTION 9: CUSTOMER SUPPORT
+
+================================================================================
+
+Customer Care: 1-800-HEALTH-1
+
+Claims Support: 1-800-CLAIM-9
+
+Email: healthsupport@demoinsurance.com
+
+Website: www.demoinsurance.com
+
+Support Hours: Monday – Saturday, 9:00 AM – 7:00 PM
+
+================================================================================
+
+END OF HEALTH INSURANCE POLICY DOCUMENT
+
 ================================================================================
